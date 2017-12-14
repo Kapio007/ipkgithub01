@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1513287968 source:c:\users\mario\desktop\c++ projekti\ipi7.2\main.cpp
+	<iostream>
+	<string>
+
+1513287969 source:c:\users\mario\desktop\c++ projekti\ipi7.2\src\circle.cpp
+	"circle.h"
+
+1513287992 c:\users\mario\desktop\c++ projekti\ipi7.2\include\circle.h
+	"sphere.h"
+	<stdio.h>
+
+1513287968 c:\users\mario\desktop\c++ projekti\ipi7.2\include\sphere.h
+	<stdio.h>
+
+1513288031 source:c:\users\mario\desktop\c++ projekti\ipi7.2\src\cube.cpp
+	"cube.h"
+
+1513288016 c:\users\mario\desktop\c++ projekti\ipi7.2\include\cube.h
+	<stdio.h>
+	"square.h"
+
+1513288006 c:\users\mario\desktop\c++ projekti\ipi7.2\include\square.h
+	<stdio.h>
+	"rectangle.h"
+
+1513288012 c:\users\mario\desktop\c++ projekti\ipi7.2\include\rectangle.h
+	<stdio.h>
+
+1513287968 source:c:\users\mario\desktop\c++ projekti\ipi7.2\src\cuboid.cpp
+	"cuboid.h"
+
+1513288036 c:\users\mario\desktop\c++ projekti\ipi7.2\include\cuboid.h
+	<stdio.h>
+
+1513288169 source:c:\users\mario\desktop\c++ projekti\ipi7.2\src\geometric ovjects.cpp
+	"geometric ovjects.h"
+	<stdio.h>
+	"rectangle.h"
+
+1513287969 c:\users\mario\desktop\c++ projekti\ipi7.2\include\geometric ovjects.h
+	<stdio.h>
+
+1513288195 source:c:\users\mario\desktop\c++ projekti\ipi7.2\src\rectangle.cpp
+	"rectangle.h"
+
+1513287968 source:c:\users\mario\desktop\c++ projekti\ipi7.2\src\sphere.cpp
+	"sphere.h"
+
+1513287969 source:c:\users\mario\desktop\c++ projekti\ipi7.2\src\square.cpp
+	"square.h"
+

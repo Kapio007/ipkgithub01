@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510272204 source:c:\users\mario\desktop\c++ projekti\fibonacci\main.cpp
+	<iostream>
+	"primzahl.h"
+
+1510272240 source:c:\users\mario\desktop\c++ projekti\fibonacci\src\primzahl.cpp
+	<iostream>
+	"primzahl.h"
+
+1510270801 c:\users\mario\desktop\c++ projekti\fibonacci\include\primzahl.h
+
