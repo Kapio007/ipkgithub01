@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511489657 source:c:\users\mario\desktop\c++ projekti\ubung3aufgabe3.e\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
