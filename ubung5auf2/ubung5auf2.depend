@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1512616714 source:c:\users\mario\desktop\c++ projekti\ubung5auf2\main.cpp
+	<iostream>
+	<string>
+	<stack>
+
+1512616753 source:c:\users\mario\desktop\c++ projekti\ubung5auf2\src\u5a2.cpp
+	"u5a2.h"
+	<sstream>
+	<algorithm>
+	<iterator>
+	"u5a2.h"
+
+1512616714 c:\users\mario\desktop\c++ projekti\ubung5auf2\include\u5a2.h
+	<string>
+	<istream>
+

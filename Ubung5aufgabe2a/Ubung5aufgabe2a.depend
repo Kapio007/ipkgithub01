@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1512711122 source:c:\users\mario\desktop\c++ projekti\ubung5aufgabe2a\main.cpp
+	<iostream>
+	"lint.cc.h"
+
+1512722207 c:\users\mario\desktop\c++ projekti\ubung5aufgabe2a\include\lint.cc.h
+	<string>
+
+1512722100 source:c:\users\mario\desktop\c++ projekti\ubung5aufgabe2a\src\lint.cc.cpp
+	"lint.cc.h"
+	<iostream>
+

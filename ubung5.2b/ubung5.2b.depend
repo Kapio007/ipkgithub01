@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1512722773 source:c:\users\mario\desktop\c++ projekti\ubung5.2b\main.cpp
+	<iostream>
+	<sstream>
+	<algorithm>
+	"input.h"
+
+1512722520 c:\users\mario\desktop\c++ projekti\ubung5.2b\include\input.h
+	<string>
+	<istream>
+
+1512722750 source:c:\users\mario\desktop\c++ projekti\ubung5.2b\src\input.cpp
+	<sstream>
+	<algorithm>
+	<iterator>
+	"input.h"
+
