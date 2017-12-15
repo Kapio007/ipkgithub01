@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506893785 source:c:\users\mario\desktop\c++ projekti\sacuvati random broj\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
